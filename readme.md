@@ -1,4 +1,4 @@
-# 🌍 Travel Planner App
+# 🌍 Travel App
 
 ### **Author: Dania Abu Ali**
 
