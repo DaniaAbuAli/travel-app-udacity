@@ -23,21 +23,24 @@ Make sure **Node.js (version 16 or higher)** is installed, then run:
 
 1. Install dependencies:
  
-bash
+```bash
     npm install
+```
 
 2. Run Development Mode
  
-bash
+```bash
     npm run dev
-  
+```  
 3. Start the Server
-bash
+```bash
    npm start
+```
 
 4. Build for Production
-bash
+```bash
    npm run prod
+```
 
  ### **Travel App Preview**
  ![Project Screenshot](image.png)
