@@ -18,8 +18,8 @@
 ## 🚀 **How to Run the Project**
 
 ### **Install Dependencies**
-
-Make sure **Node.js (version 16 or higher)** is installed, then run:
+This project was developed using **Node.js v22.12.0**.  
+To ensure compatibility, please use **Node.js v22.12.0**, then run:
 
 1. Install dependencies:
  
